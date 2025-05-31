@@ -98,17 +98,6 @@ Make sure that your third-party services like Google Gemini AI and Privy are pro
 
 ---
 
-## Team Information
-
-- **Team Name**: X-Team
-- **Hackathon**: Matrix 2.0 at IITM College
-- **Members**:
-  - Priyansh Padhi (priyansh56701@gmail.com)
-  - Arman Singh (armansr205@gmail.com)
-  - Utkarsh Sharma (utkarsh.an.sharma@gmail.com)
-  - Shubham Mangai (mamgai75@gmail.com)
-
----
 
 ## Revenue Model
 
